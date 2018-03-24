@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-biquery.api.streamdata.gallery
+title: Streamdata Gallery Google Biquery
+url: google-biquery.streamdata.gallery
 tag: Google Biquery
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-biquery
 github_branch: master
 collections:
