@@ -9,10 +9,10 @@ description: BigQuery is Googles fully managed, petabyte scale, low cost enterpr
   500 companies.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/BigQuery_500px.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Biquery
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-biquery/master/_listings/google-biquery/apis.md
 specificationVersion: "0.14"
 apis:

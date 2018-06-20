@@ -4,7 +4,7 @@ x-collection-name: Google Biquery
 x-complete: 1
 info:
   title: BigQuery
-  description: a-data-platform-for-customers-to-create-manage-share-and-query-data
+  description: a-data-platform-for-customers-to-create-manage-share-and-query-data-
   contact:
     name: Google
     url: https://google.com
